@@ -1,4 +1,4 @@
-# Hi, I'm Ilya!
+# Hi, I'm Ilja!
 
 I'm an Applied Mathematics graduate interested in Data Science, Machine Learning and scientific computing.
 
